@@ -375,15 +375,5 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## Citation
 
-If you use this framework in your research, please cite:
-
-```bibtex
-@misc{sage-2025,
-  title={SAGE: Sim2Real Actuator Gap Estimator},
-  author={SAGE Team},
-  year={2025},
-  url={https://github.com/isaac-sim2real/sage}
-}
 ```
